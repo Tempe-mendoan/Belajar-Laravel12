@@ -122,7 +122,7 @@
    <p>Alamat: {{ $alamat }}</p>
    ```
    **Tampilan Biodata:**
-   ![Biodata](public/bio.jpg)
+   ![Biodata](public/bio.png)
 
 ---
 **Selesai!** 🚀
