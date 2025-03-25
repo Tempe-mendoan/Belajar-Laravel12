@@ -86,7 +86,7 @@
    }
    ```
    **Tampilan Hello World:**
-   ![Hello World](screenshots/hello-world.png)
+   ![Hello World](public/hello.gif)
 
 ### 4. Mengambil File
    ```php
@@ -122,7 +122,7 @@
    <p>Alamat: {{ $alamat }}</p>
    ```
    **Tampilan Biodata:**
-   ![Biodata]([screenshots/biodata.png](https://github.com/Tempe-mendoan/Belajar-Laravel12/blob/main/public/bio.png?raw=true))
+   ![Biodata](public/bio.jpg)
 
 ---
 **Selesai!** 🚀
