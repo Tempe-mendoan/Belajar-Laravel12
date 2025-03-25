@@ -122,7 +122,7 @@
    <p>Alamat: {{ $alamat }}</p>
    ```
    **Tampilan Biodata:**
-   ![Biodata](screenshots/biodata.png)
+   ![Biodata]([screenshots/biodata.png](https://github.com/Tempe-mendoan/Belajar-Laravel12/blob/main/public/bio.png?raw=true))
 
 ---
 **Selesai!** 🚀
