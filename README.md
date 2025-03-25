@@ -52,7 +52,7 @@
    php artisan serve
    ```
 
-## Minggu Ke-2: Mengenal Controller, Function, Route & View
+## Mengenal Controller, Function, Route & View
 
 ### 1. Membuat Controller dan Function
    ```sh
@@ -85,6 +85,8 @@
        return view('hello');
    }
    ```
+   **Tampilan Hello World:**
+   ![Hello World](screenshots/hello-world.png)
 
 ### 4. Mengambil File
    ```php
@@ -119,6 +121,8 @@
    <p>Umur: {{ $umur }}</p>
    <p>Alamat: {{ $alamat }}</p>
    ```
+   **Tampilan Biodata:**
+   ![Biodata](screenshots/biodata.png)
 
 ---
 **Selesai!** 🚀
